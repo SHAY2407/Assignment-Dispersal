@@ -1,0 +1,21 @@
+student,race,gender,class_performance,learning_prefrence,remembering,understanding,applying,analysis,Creating
+1,group B,Male,1,Videos,5,9,6,7,9
+2,group C,Female,4,PDF,5,9,6,7,6
+3,group B,Male,4,PPT,6,3,6,5,2
+4,group A,Male,2,Videos,7,4,4,5,10
+5,group C,Male,1,PDF,6,2,5,4,3
+6,group E,Male,0,Videos,4,9,7,7,9
+7,group C,Male,4,PDF,10,6,8,8,4
+8,group C,Female,0,PPT,10,5,4,6,5
+9,group D,Female,1,PDF,5,3,5,4,6
+10,group D,Male,5,PPT,7,4,5,5,9
+11,group B,Male,1,Videos,9,5,4,6,3
+12,group B,Male,1,PDF,9,6,8,8,5
+13,group C,Female,4,PPT,9,9,5,8,2
+14,group A,Male,0,PDF,7,9,5,7,5
+15,group A,Female,4,PPT,10,6,4,7,3
+16,group E,Male,2,PPT,8,2,7,6,7
+17,group C,Female,1,Videos,5,7,8,7,1
+18,group C,Female,3,PPT,4,3,6,4,10
+19,group D,Male,2,PDF,7,6,6,6,1
+20,group B,Male,1,Videos,6,9,5,7,1
