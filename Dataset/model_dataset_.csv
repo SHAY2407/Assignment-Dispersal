@@ -1,101 +1,101 @@
-student,race,gender,learning_prefrence,remembering,understanding,applying,analysis,Creating,test_prep,Intelligence
-1,group B,Male,Videos,5,9,6,7,9,1,7
-2,group C,Female,PDF,5,9,6,7,6,1,7
-3,group B,Male,PPT,6,3,6,5,2,1,4
-4,group A,Male,Videos,7,4,4,5,10,0,6
-5,group C,Male,PDF,6,2,5,4,3,0,4
-6,group E,Male,Videos,4,9,7,7,9,0,7
-7,group C,Male,PDF,10,6,8,8,4,0,7
-8,group C,Female,PPT,10,5,4,6,5,0,6
-9,group D,Female,PDF,5,3,5,4,6,1,5
-10,group D,Male,PPT,7,4,5,5,9,1,6
-11,group B,Male,Videos,9,5,4,6,3,1,5
-12,group B,Male,PDF,9,6,8,8,5,1,7
-13,group C,Female,PPT,9,9,5,8,2,1,7
-14,group A,Male,PDF,7,9,5,7,5,0,7
-15,group A,Female,PPT,10,6,4,7,3,1,6
-16,group E,Male,PPT,8,2,7,6,7,1,6
-17,group C,Female,Videos,5,7,8,7,1,0,6
-18,group C,Female,PPT,4,3,6,4,10,0,5
-19,group D,Male,PDF,7,6,6,6,1,0,5
-20,group B,Male,Videos,6,9,5,7,1,0,6
-21,group D,Female,PDF,5,3,6,6,9,0,6
-22,group E,Male,PPT,10,4,5,5,3,0,5
-23,group B,Male,PPT,10,9,5,6,3,0,7
-24,group D,Female,Videos,8,4,8,4,5,1,6
-25,group D,Male,PDF,8,5,5,7,6,0,6
-26,group C,Female,PDF,7,4,4,6,6,1,5
-27,group D,Female,PPT,4,10,6,8,5,0,7
-28,group E,Male,PPT,8,7,7,6,6,1,7
-29,group A,Female,PDF,6,3,8,7,2,0,5
-30,group E,Male,PPT,6,8,4,8,4,1,6
-31,group E,Female,PDF,10,6,6,5,6,1,7
-32,group A,Male,Videos,9,4,6,5,5,1,6
-33,group D,Male,PDF,10,3,7,4,8,0,6
-34,group B,Male,PDF,5,8,7,5,8,0,7
-35,group E,Female,PPT,6,5,4,8,1,1,5
-36,group C,Male,PPT,7,6,5,7,5,0,6
-37,group A,Female,Videos,8,9,8,8,3,1,7
-38,group B,Female,PDF,9,3,4,5,6,0,5
-39,group A,Male,PDF,5,7,4,5,4,1,5
-40,group C,Female,Videos,7,10,6,7,3,0,7
-41,group E,Male,Videos,4,5,5,7,8,0,6
-42,group B,Female,PPT,6,4,8,7,10,1,7
-43,group D,Female,PDF,9,8,6,8,10,0,8
-44,group C,Male,PDF,6,7,5,6,4,0,6
-45,group A,Male,PPT,9,5,5,7,8,1,7
-46,group B,Female,Videos,4,4,4,8,1,0,4
-47,group E,Female,Videos,5,3,6,6,2,1,4
-48,group E,Female,PPT,6,5,8,5,9,1,7
-49,group C,Male,PDF,8,9,6,7,8,0,8
-50,group A,Female,PPT,10,9,7,5,3,1,7
-51,group C,Male,Videos,4,10,6,5,2,0,5
-52,group D,Female,PPT,5,5,5,5,9,0,6
-53,group D,Male,PDF,5,8,8,7,6,0,7
-54,group E,Female,PPT,7,7,5,8,5,0,6
-55,group E,Male,Videos,8,4,6,4,3,0,5
-56,group B,Female,PDF,4,6,4,7,5,1,5
-57,group E,Female,PPT,4,4,6,4,1,0,4
-58,group D,Male,PDF,7,10,7,4,9,1,7
-59,group C,Male,PPT,10,4,5,8,9,0,7
-60,group D,Male,Videos,7,4,5,4,8,0,6
-61,group B,Female,Videos,4,7,8,5,5,1,6
-62,group E,Male,PDF,9,7,5,5,8,1,7
-63,group D,Female,PPT,6,4,4,5,2,1,4
-64,group D,Male,Videos,8,7,8,7,4,0,7
-65,group A,Female,PPT,9,5,4,8,4,0,6
-66,group D,Male,PDF,8,4,5,8,3,0,6
-67,group B,Female,Videos,7,5,8,8,6,0,7
-68,group B,Male,PPT,9,5,5,8,1,0,6
-69,group A,Male,PPT,5,9,5,5,1,0,5
-70,group D,Male,PDF,4,10,5,4,6,1,6
-71,group C,Female,Videos,7,6,6,4,6,0,6
-72,group D,Male,PPT,4,5,6,5,1,0,4
-73,group C,Male,PPT,6,3,6,7,10,1,6
-74,group A,Female,PPT,9,3,8,4,4,0,6
-75,group A,Male,PDF,8,4,5,7,3,0,5
-76,group D,Female,PPT,9,8,8,5,9,1,8
-77,group D,Male,PDF,9,6,4,5,4,1,6
-78,group E,Female,PPT,10,9,6,5,10,0,8
-79,group E,Male,PDF,8,7,8,4,5,1,6
-80,group E,Female,Videos,5,5,8,5,9,1,6
-81,group B,Female,PDF,8,3,5,5,3,0,5
-82,group B,Male,PPT,5,7,6,6,9,1,7
-83,group C,Male,PDF,8,8,5,7,9,1,7
-84,group B,Male,PPT,7,6,7,5,7,0,6
-85,group A,Female,PPT,5,9,4,5,1,0,5
-86,group B,Female,Videos,10,3,6,4,7,0,6
-87,group A,Male,PPT,4,7,7,8,2,1,6
-88,group E,Male,PDF,10,5,8,6,6,1,7
-89,group A,Male,PPT,10,6,5,5,6,1,6
-90,group B,Female,Videos,7,9,6,6,6,1,7
-91,group D,Male,PDF,7,9,7,8,3,0,7
-92,group D,Male,PPT,7,6,5,7,5,0,6
-93,group A,Female,PDF,5,9,6,8,2,1,6
-94,group C,Male,PPT,7,4,8,4,5,1,6
-95,group B,Male,Videos,7,4,4,4,2,1,4
-96,group A,Female,PDF,9,8,7,4,2,0,6
-97,group E,Male,PPT,10,3,6,7,5,1,6
-98,group D,Male,PDF,5,9,7,6,9,1,7
-99,group D,Female,PPT,4,10,6,7,4,1,6
-100,group C,Male,Videos,7,10,5,4,6,1,6
+student,gender,	SectionID,raisedhands,VisITedResources,AnnouncementsView,Discussion,StudentAbsenceDays,Intelligence
+1,Male,A,0,0,1,6,Above-7,1.75
+2,Female,B,0,11,6,9,Above-7,6.5
+3,Male,B,0,6,12,4,Above-7,5.5
+4,Male,A,0,3,0,1,Above-7,1
+5,Male,C,0,5,10,1,Above-7,4
+6,Male,D,0,7,12,2,Under-7,5.25
+7,Male,B,1,2,11,4,Above-7,4.5
+8,Female,C,1,0,12,9,Above-7,5.5
+9,Female,A,1,8,11,9,Above-7,7.25
+10,Male,D,1,2,5,7,Under-7,3.75
+11,Male,B,0,6,10,7,Above-7,5.75
+12,Male,C,0,5,3,2,Above-7,2.5
+13,Female,B,0,3,2,8,Above-7,3.25
+14,Male,D,0,1,10,1,Under-7,3
+15,Female,A,0,4,1,4,Above-7,2.25
+16,Male,B,0,7,7,10,Above-7,6
+17,Female,A,1,2,9,9,Above-7,5.25
+18,Female,C,1,8,8,3,Above-7,5
+19,Male,D,0,12,1,8,Above-7,5.25
+20,Male,B,0,12,2,3,Above-7,4.25
+21,Female,C,0,6,8,10,Under-7,6
+22,Male,A,0,10,8,8,Above-7,6.5
+23,Male,B,0,6,3,9,Under-7,4.5
+24,Female,D,0,11,3,1,Above-7,3.75
+25,Male,A,0,4,1,1,Above-7,1.5
+26,Female,B,0,2,9,6,Above-7,4.25
+27,Female,A,0,3,10,7,Above-7,5
+28,Male,C,1,2,6,9,Above-7,4.5
+29,Female,B,0,12,8,1,Under-7,5.25
+30,Male,B,0,0,1,3,Under-7,1
+31,Female,C,0,0,0,8,Above-7,2
+32,Male,A,0,10,7,0,Above-7,4.25
+33,Male,D,0,3,11,2,Under-7,4
+34,Male,C,0,2,9,9,Above-7,5
+35,Female,B,0,4,10,10,Under-7,6
+36,Male,D,1,4,11,2,Above-7,4.5
+37,Female,A,0,1,6,6,Above-7,3.25
+38,Female,C,1,8,11,4,Above-7,6
+39,Male,B,0,1,9,6,Under-7,4
+40,Female,A,1,9,12,4,Above-7,6.5
+41,Male,C,0,9,12,0,Under-7,5.25
+42,Female,D,0,11,4,5,Above-7,5
+43,Female,B,0,0,1,6,Above-7,1.75
+44,Male,D,0,12,7,5,Above-7,6
+45,Male,D,0,8,1,7,Above-7,4
+46,Female,B,0,1,2,3,Under-7,1.5
+47,Female,D,0,12,12,10,Above-7,8.5
+48,Female,A,0,10,2,4,Above-7,4
+49,Male,D,0,2,4,10,Under-7,4
+50,Female,C,0,8,2,8,Above-7,4.5
+51,Male,B,1,5,9,2,Above-7,4.25
+52,Female,A,0,3,7,1,Above-7,2.75
+53,Male,A,0,4,9,6,Under-7,4.75
+54,Female,D,0,8,2,8,Above-7,4.5
+55,Male,B,0,5,10,10,Above-7,6.25
+56,Female,D,0,0,8,8,Above-7,4
+57,Female,B,1,8,5,10,Above-7,6
+58,Male,A,0,7,1,8,Under-7,4
+59,Male,C,0,1,3,8,Above-7,3
+60,Male,D,0,5,12,4,Above-7,5.25
+61,Female,C,0,1,11,3,Above-7,3.75
+62,Male,A,0,8,0,10,Under-7,4.5
+63,Female,D,0,8,9,2,Under-7,4.75
+64,Male,B,1,1,12,6,Above-7,5
+65,Female,D,0,11,10,8,Above-7,7.25
+66,Male,C,0,4,9,4,Above-7,4.25
+67,Female,D,0,6,7,5,Above-7,4.5
+68,Male,A,0,10,2,8,Above-7,5
+69,Male,D,0,2,2,7,Under-7,2.75
+70,Male,B,0,6,6,7,Above-7,4.75
+71,Female,A,1,5,9,9,Under-7,6
+72,Male,D,0,5,7,2,Above-7,3.5
+73,Male,B,0,10,2,5,Above-7,4.25
+74,Female,C,0,5,9,8,Under-7,5.5
+75,Male,A,0,4,11,7,Above-7,5.5
+76,Female,B,0,6,12,3,Above-7,5.25
+77,Male,D,1,0,0,1,Under-7,0.5
+78,Female,B,0,1,11,1,Above-7,3.25
+79,Male,A,0,1,11,9,Above-7,5.25
+80,Female,C,0,1,10,3,Above-7,3.5
+81,Female,D,0,3,5,8,Above-7,4
+82,Male,C,1,8,0,10,Under-7,4.75
+83,Male,A,0,2,7,7,Above-7,4
+84,Male,B,0,1,0,4,Above-7,1.25
+85,Female,C,1,4,12,10,Above-7,6.75
+86,Female,A,1,9,2,2,Under-7,3.5
+87,Male,C,0,0,11,7,Above-7,4.5
+88,Male,B,0,6,9,1,Under-7,4
+89,Male,A,0,5,0,8,Above-7,3.25
+90,Female,D,0,1,1,7,Above-7,2.25
+91,Male,C,0,8,1,7,Above-7,4
+92,Male,D,0,5,4,10,Above-7,4.75
+93,Female,A,1,4,1,8,Under-7,3.5
+94,Male,C,0,6,9,5,Above-7,5
+95,Male,B,0,12,8,9,Under-7,7.25
+96,Female,A,0,4,0,3,Above-7,1.75
+97,Male,C,0,2,10,0,Above-7,3
+98,Male,B,1,10,11,7,Above-7,7.25
+99,Female,A,1,0,1,4,Under-7,1.5
+100,Male,C,0,3,5,0,Above-7,2
